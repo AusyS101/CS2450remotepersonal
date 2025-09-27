@@ -48,3 +48,7 @@ Consistency:
     - Be consitent with your shapes. You can use different shapes to represent different kindsof things, but be sure the reason for the different shapes is obvious and clear.
     - Bi-directional arrows usually mean bi-directional communication- info that is useless in most cases.
     - Use number bubbles to keep from cluttering your diagram with explanations of relationships.
+
+Date: 9/26/2025 - Subject: Today we learned about System Design. We discussed how the best engineers will be the ones who know how to think through the problems in code, not the ones who can code the fastest. 
+
+Content Delivery Networks: Client (computer) -> make attp request -> servers produce a support file -> recieved by client.
