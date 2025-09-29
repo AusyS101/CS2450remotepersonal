@@ -52,3 +52,12 @@ Consistency:
 Date: 9/26/2025 - Subject: Today we learned about System Design. We discussed how the best engineers will be the ones who know how to think through the problems in code, not the ones who can code the fastest. 
 
 Content Delivery Networks: Client (computer) -> make attp request -> servers produce a support file -> recieved by client.
+
+Date: 9/29/2025 - Subject: Component Diagrams are a really impportant tool, that should be used throughout a career in software. We should go back over this. 
+
+Presentations Today:
+    - Plundr: a pirate themed social media platform that connects pirate crews across the seven seas.
+
+    - mySpy: A spy themed platform for spys to communicate with other spies, and for spys to be hired for jobs.
+
+    -Intator-Inator: an engineering based platform for egineers to post their projects and get help from others.
