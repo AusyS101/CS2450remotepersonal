@@ -61,3 +61,14 @@ Presentations Today:
     - mySpy: A spy themed platform for spys to communicate with other spies, and for spys to be hired for jobs.
 
     -Intator-Inator: an engineering based platform for egineers to post their projects and get help from others.
+
+Date: 10/1/2025 - Subject: Today we continued to discuss the presentations and projects of students this semester. 
+
+Presentations Today:
+    - Only-Clowns: A clown themed dating platform where clowns can meet each other and can date.
+
+    - CampusTalk: A social media platform that is similar to reddit, but without the grosser parts of it.
+
+    - Only Celebs: A website that shows who the most popular celbrity is, and tries to give them more power.
+
+    
